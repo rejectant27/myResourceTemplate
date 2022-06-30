@@ -1,0 +1,2 @@
+# myResourceTemplate
+myResourceTemplate
